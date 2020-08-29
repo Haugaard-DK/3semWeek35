@@ -3,7 +3,7 @@
 ## TUESDAY
   * point <br/>
     Denne opgave blev løst uden problemer
-  * customer
+  * customer <br/>
     Der var lidt bøvl med testene, men det blev løst
     
 ## WEDNESDAY
